@@ -9,13 +9,18 @@ https://vast-brook-73254.herokuapp.com/
 
 # Technology/FrameWorks:
 *Node.js,
+
 *Express.js,
+
 *Bootstrap
 
-# npm packages (:
+# npm packages:
 *express,
+
 *body-parser,
+
 *path
+
 *also refer to package.json file for detail.
 
 # additional features that can be added for future:
