@@ -1,5 +1,5 @@
 # Friend-Finder-App
-compatibility-based "FriendFinder" application similar to match makers/dating app.
+Compatibility-based "FriendFinder" application similar to match-maker/dating apps.
 
 There are ten (10) questions that user needs to answer. Each answer should be on a scale of 1 (Strongly Disagree) to 5 (Strongly Agree), based on how much the user agrees or disagrees with a question.
 
