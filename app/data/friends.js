@@ -36,6 +36,12 @@ var friendsArray = [
         "photoLink":"https://i.ebayimg.com/images/g/iiIAAOSwzXxaQeHw/s-l300.jpg",
         "score":[3,3,3,3,3,2,1,3,4,5]
     },
+    
+    {
+        "name":"Asha",
+        "photoLink":"https://thumbs.dreamstime.com/z/red-rose-flower-petals-spa-aromatherapy-8177076.jpg",
+        "score":[5,5,5,5,5,4,4,4,4,5]
+    }
 
 
 
