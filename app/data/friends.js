@@ -15,7 +15,7 @@ var friendsArray = [
 
     {
         "name":"Merry",
-        "photoLink":"http://www.britishcollegeofcaninestudies.com/wordpress/wp-content/uploads/2017/11/Online-dog-law-certificate-course.jpg",
+        "photoLink":"http://www.wildaboutflowers.ca/cmsAdmin/uploads/Canada_Anemone_Bloom.gif",
         "score":[2,4,1,3,5,1,1,1,3,3]
     },
 
